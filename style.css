@@ -171,6 +171,7 @@ body {
 
 .education_wrapper {
     display: list-item;
+    margin: 20px;
 }
 
 .education_ocupation {
@@ -313,12 +314,5 @@ body {
     .contacts,
     .tech-skills {
         margin: 20px 0;
-    }
-
-    .project_list,
-    .work_wrapper,
-    .education_wrapper,
-    .tech-skills-list {
-        margin-left: 0;
     }
 }
